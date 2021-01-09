@@ -3,7 +3,7 @@
 # 确保脚本抛出遇到的错误
 set -e
 
-GITHUB_TOKEN=e04cf3af35d27a02380329c33ea00127f1eac16e
+GITHUB_TOKEN=e06a4252e3c3e39992a5f8a789058c63ff72ad12
 
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
