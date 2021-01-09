@@ -18,4 +18,4 @@ urls.txt
 .DS_Store
 
 #本地推送脚本
-submit.sh 
+push.sh 
