@@ -8,7 +8,7 @@ npm run build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
-echo ${GITHUB_TOKEN}
+
 # deploy to github
 # echo 'b.xugaoyi.com' > CNAME
 if [ -z "$GITHUB_TOKEN" ]; then
