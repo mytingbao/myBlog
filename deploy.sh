@@ -40,3 +40,12 @@ git push -f $githubUrl master:dev_1.0.0 # 推送到github
 
 cd - # 退回开始所在目录
 rm -rf docs/.vuepress/dist
+
+# demos show how to create new git repo
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git branch -M main
+#git remote add origin https://github.com/mytingbao/nodejs-push-service-for-fast-app.git
+#git push -u origin main
+
